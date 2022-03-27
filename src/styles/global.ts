@@ -8,10 +8,10 @@ export const GlabalStyle = createGlobalStyle`
 --blue: #5429CC;
 --blue-Light: #6933FF;
 --text-title: #363F5f;
---text-toty: #969CB3;
+--text-body: #969CB3;
 --background: #FEF2F5;
 --shape: #FFFFFE;
---green:#E52E4D33CC95
+--green:#33CC95;
 }
 
 *{
